@@ -8,3 +8,6 @@ Jogo da memória com emojis criado utilizndo HTML, CSS e Javascript. Etapas do P
 - Ajustes finais.
 
   Projeto supervisionado pelo Felipe Aguiar da DIO.
+
+Segue o link do game
+https://douglas2s.github.io/memory-game/
